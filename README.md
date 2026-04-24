@@ -5,13 +5,7 @@ Auto-generate opencli plugins from frontend projects.
 ## Install
 
 ```bash
-skills add opencli-gen
-```
-
-Or from GitHub:
-
-```bash
-skills add vercel-labs/agent-skills/opencli-gen
+npx skills add https://github.com/malcolmyu/opencli-gen --skill opencli-gen
 ```
 
 ## Files
