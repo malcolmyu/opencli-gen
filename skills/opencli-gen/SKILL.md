@@ -1,3 +1,9 @@
+---
+name: opencli-gen
+description: Auto-generate opencli plugins from frontend projects — discovers APIs, selects by user task, probes responses, verifies every command
+trigger: /opencli-gen
+---
+
 # /opencli-gen
 
 Auto-generate an opencli plugin for a frontend project. Selects endpoints by **user task**, **probes real responses**, and **verifies every command runs** before declaring success.
